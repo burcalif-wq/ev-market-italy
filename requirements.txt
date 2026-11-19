@@ -1,0 +1,11 @@
+pandas
+numpy
+pdfplumber
+sqlalchemy
+scikit-learn
+joblib
+streamlit
+plotly
+langchain
+langchain-groq
+chromadb

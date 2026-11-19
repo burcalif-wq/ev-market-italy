@@ -1,0 +1,11 @@
+cod_prov,provincia,regione,area_geo,popolazione_2026,punti_ricarica_2026,crescita_ricarica_yoy_pct
+TO,Torino,Piemonte,Nord-Ovest,2205000,4498,52.0
+MI,Milano,Lombardia,Nord-Ovest,3250000,7423,61.2
+RM,Roma,Lazio,Centro,4220000,6109,8.2
+NA,Napoli,Campania,Sud,2960000,3470,12.2
+BS,Brescia,Lombardia,Nord-Ovest,1265000,2489,31.5
+BO,Bologna,Emilia-Romagna,Nord-Est,1020000,1980,27.0
+FI,Firenze,Toscana,Centro,990000,1850,24.5
+BG,Bergamo,Lombardia,Nord-Ovest,1115000,1790,29.0
+PD,Padova,Veneto,Nord-Est,935000,1640,32.0
+BA,Bari,Puglia,Sud,1220000,1310,25.0

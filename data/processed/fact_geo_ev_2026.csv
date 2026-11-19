@@ -1,0 +1,10 @@
+cod_prov,provincia,regione,area_geo,popolazione_2026,punti_ricarica_2026,crescita_ricarica_yoy_pct,colonnine_per_1000_ab,imm_tot_10m_2026,imm_bev_10m_2026,tesla_ott_2026,quota_bev_pct,auto_bev_per_colonnina
+TO,Torino,Piemonte,Nord-Ovest,2205000,4498,52.0,2.04,58400,3910,112,6.7,0.87
+MI,Milano,Lombardia,Nord-Ovest,3250000,7423,61.2,2.28,112500,11810,345,10.5,1.59
+RM,Roma,Lazio,Centro,4220000,6109,8.2,1.45,128000,11520,298,9.0,1.89
+BS,Brescia,Lombardia,Nord-Ovest,1265000,2489,31.5,1.97,34100,2890,89,8.48,1.16
+BO,Bologna,Emilia-Romagna,Nord-Est,1020000,1980,27.0,1.94,31800,3120,96,9.81,1.58
+FI,Firenze,Toscana,Centro,990000,1850,24.5,1.87,33500,3080,91,9.19,1.66
+BG,Bergamo,Lombardia,Nord-Ovest,1115000,1790,29.0,1.61,28900,2370,74,8.2,1.32
+PD,Padova,Veneto,Nord-Est,935000,1640,32.0,1.75,26400,2290,71,8.67,1.4
+BA,Bari,Puglia,Sud,1220000,1310,25.0,1.07,24100,1250,31,5.19,0.95
